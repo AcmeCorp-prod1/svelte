@@ -5,7 +5,7 @@ node_modules/
 .idea
 
 # Test coverage
-coverage
+coverage 
 *.lcov
 
 # Optional eslint cache
